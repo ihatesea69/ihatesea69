@@ -35,16 +35,20 @@ I bridge the gap between complex business challenges and cutting-edge AI technol
 <table>
   <tr>
     <td align="center">
-      <h3>5</h3>
-      <p>AI PoCs Delivered</p>
+      <h3>5+</h3>
+      <p>AI Projects Delivered</p>
     </td>
     <td align="center">
-      <h3>1</h3>
-      <p>Production Project</p>
+      <h3>1,000+</h3>
+      <p>Community Members Led</p>
     </td>
     <td align="center">
-      <h3>3</h3>
-      <p>Industries Served</p>
+      <h3>4</h3>
+      <p>Speaking Events (200+ Attendees)</p>
+    </td>
+    <td align="center">
+      <h3>2x</h3>
+      <p>AWS Certified</p>
     </td>
   </tr>
 </table>
