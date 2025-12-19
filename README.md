@@ -53,33 +53,32 @@ I bridge the gap between complex business challenges and cutting-edge AI technol
 
 ## Business ROI Delivered
 
-### Finance & Banking
+### Voice Bot
 
-| Project                   | Impact                                                               | Metrics                    | Links                                   |
-| ------------------------- | -------------------------------------------------------------------- | -------------------------- | --------------------------------------- |
-| AI Call Center Agent      | Automated customer support calls using AWS Bedrock                   | Reduced call handling time | [Demo](https://github.com/ihatesea69)   |
-| AWS Cost Estimation Agent | Automated cost calculation workflows with Amazon Bedrock & LangGraph | Cost savings identified    | [GitHub](https://github.com/ihatesea69) |
+| Project              | Impact                                             | Metrics                    | Links                                                                            |
+| -------------------- | -------------------------------------------------- | -------------------------- | -------------------------------------------------------------------------------- |
+| AI Call Center Agent | Automated customer support calls using AWS Bedrock | Reduced call handling time | [Demo](https://github.com/ihatesea69) ・ [GitHub](https://github.com/ihatesea69) |
 
-### Real Estate
+### Chatbot
 
-| Project                 | Impact                                            | Metrics                   | Links                                   |
-| ----------------------- | ------------------------------------------------- | ------------------------- | --------------------------------------- |
-| Property Search Chatbot | Property search with personalized recommendations | Faster lead response time | [Demo](https://github.com/ihatesea69)   |
-| Lead Qualification Bot  | Automated lead scoring & CRM integration          | Improved conversion rate  | [GitHub](https://github.com/ihatesea69) |
+| Project                | Impact                                                              | Metrics                                   | Links                                                                            |
+| ---------------------- | ------------------------------------------------------------------- | ----------------------------------------- | -------------------------------------------------------------------------------- |
+| Real Estate AI Chatbot | Property search with recommendations & automated lead qualification | Faster response time, improved conversion | [Demo](https://github.com/ihatesea69) ・ [GitHub](https://github.com/ihatesea69) |
 
-### Robotics & Computer Vision
+### Computer Vision
 
-| Project               | Impact                                            | Metrics                    | Links                                                                                                                                                                                       |
-| --------------------- | ------------------------------------------------- | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Robot Human Detection | CV human detection at Nguyen Hue Street, Tet 2025 | ~50,000 visitors reached   | [GitHub](https://github.com/ihatesea69/Robot_Spring_2025_NguyenHueStreet) ・ [News](https://thanhnien.vn/robot-ban-tim-chup-anh-cho-khach-tren-duong-hoa-nguyen-hue-185250129133644434.htm) |
-| AI Navigation System  | Real-time obstacle detection & path planning      | High accuracy in detection | [Demo](https://github.com/ihatesea69/Robot_Spring_2025_NguyenHueStreet)                                                                                                                     |
+| Project                   | Impact                                            | Metrics                  | Links                                                                                                                                                                                                                                                                  |
+| ------------------------- | ------------------------------------------------- | ------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Robot Human Detection     | CV human detection at Nguyen Hue Street, Tet 2025 | ~50,000 visitors reached | [Demo](https://github.com/ihatesea69/Robot_Spring_2025_NguyenHueStreet) ・ [GitHub](https://github.com/ihatesea69/Robot_Spring_2025_NguyenHueStreet) ・ [News](https://thanhnien.vn/robot-ban-tim-chup-anh-cho-khach-tren-duong-hoa-nguyen-hue-185250129133644434.htm) |
+| Sign Language Recognition | Deep learning model for sign language detection   | Accessibility focused    | [Demo](https://github.com/ihatesea69/Sign-Language-Recognition) ・ [GitHub](https://github.com/ihatesea69/Sign-Language-Recognition)                                                                                                                                   |
+| Human Wave Detector       | TensorFlow-based human detection for robotics     | Computer vision pipeline | [Demo](https://github.com/ihatesea69/HumanWaveDetector) ・ [GitHub](https://github.com/ihatesea69/HumanWaveDetector)                                                                                                                                                   |
 
-### Education & Training
+### AI Ops
 
-| Project                    | Impact                                             | Metrics                  | Links                                                                                                                       |
-| -------------------------- | -------------------------------------------------- | ------------------------ | --------------------------------------------------------------------------------------------------------------------------- |
-| Bedrock AgentCore Workshop | Hands-on AI Agent training for university students | 50+ participants trained | [GitHub](https://github.com/ihatesea69/Bedrock-AgentCore-Workshop-FPT-University)                                           |
-| Text-to-Speech Workshop    | Serverless application with Amazon Polly           | 30+ students completed   | [GitHub](https://github.com/ihatesea69/Building-a-Serverless-Text-to-Speech-Application-with-Amazon-Polly-AWS-Workshop-FCJ) |
+| Project                          | Impact                                                  | Metrics                     | Links                                                                                                                                                                                  |
+| -------------------------------- | ------------------------------------------------------- | --------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Voice Agent Monitoring           | Voice Agent with Pipecat on AWS + LangSmith monitoring  | Production-ready setup      | [Demo](https://github.com/ihatesea69/Monitoring-Voice-Agent-with-LangSmith-Build-on-AWS) ・ [GitHub](https://github.com/ihatesea69/Monitoring-Voice-Agent-with-LangSmith-Build-on-AWS) |
+| AWS MSK Chatbot Security Monitor | Real-time security monitoring pipeline for chatbot apps | AI-powered threat detection | [Demo](https://github.com/ihatesea69/aws-msk-chatbot-security-monitor) ・ [GitHub](https://github.com/ihatesea69/aws-msk-chatbot-security-monitor)                                     |
 
 ---
 
@@ -112,7 +111,7 @@ Together with my peers, we grew the community from **0 to 1,000+ student members
   </tr>
 </table>
 
-<p align="right"><i>Last updated: 13/12/2025</i></p>
+<p align="right"><i>Last updated: 19/12/2025</i></p>
 
 | Platform         | Metrics                                         | Link                                                          |
 | ---------------- | ----------------------------------------------- | ------------------------------------------------------------- |
@@ -137,13 +136,12 @@ Main Host of hands-on workshops with **50+ students per session**, including liv
 
 I participated in the **AWS First Cloud Journey Program**, a 6-month intensive training covering both fundamental and advanced AWS knowledge through theory and hands-on practice. I successfully completed **5 workshops** and graduated.
 
-| Workshop                         | Link                                                                              |
-| -------------------------------- | --------------------------------------------------------------------------------- |
-| Bedrock AgentCore Workshop       | [GitHub](https://github.com/ihatesea69/Bedrock-AgentCore-Workshop-FPT-University) |
-| AWS MSK Chatbot Security Monitor | [GitHub](https://github.com/ihatesea69/aws-msk-chatbot-security-monitor)          |
-| AWS MCP                          | [GitHub](https://github.com/ihatesea69/AWS-MCP)                                   |
-| OCR ETL AWS                      | [GitHub](https://github.com/ihatesea69/OCR-ETL-AWS)                               |
-| Simple EC2 WordPress Terraform   | [GitHub](https://github.com/ihatesea69/SimpleEC2_Wordpress_Terraform_WS)          |
+| Workshop                   | Link                                                                                                                        |
+| -------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| Bedrock AgentCore Workshop | [GitHub](https://github.com/ihatesea69/Bedrock-AgentCore-Workshop-FPT-University)                                           |
+| AWS MCP Server             | [GitHub](https://github.com/ihatesea69/aws-mcp-server)                                                                      |
+| Innovation Lab Workshop    | [GitHub](https://github.com/ihatesea69/Innovation_Lab_Workshop)                                                             |
+| Text-to-Speech Workshop    | [GitHub](https://github.com/ihatesea69/Building-a-Serverless-Text-to-Speech-Application-with-Amazon-Polly-AWS-Workshop-FCJ) |
 
 ### Organizer & Speaker – First Cloud Journey Program
 
@@ -175,6 +173,25 @@ I contribute as both event support organizer and speaker for AWS community event
     <img src="https://images.credly.com/size/100x100/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="80" height="80" alt="AWS Certified Cloud Practitioner" />
   </a>
 </p>
+
+---
+
+## Study Notes & Learning Resources
+
+### AWS Certification Study Guides
+
+| Certification                                     | Description                                                                                 | Link                                                                          |
+| ------------------------------------------------- | ------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| AWS Solutions Architect Associate (SAA-C03)       | Study notes and hands-on labs covering core AWS services, architectures, and best practices | [GitHub](https://github.com/ihatesea69/aws-saa-study-notes-and-hands-on-labs) |
+| AWS Machine Learning Engineer Associate (MLA-C01) | Comprehensive guide for ML engineering on AWS with practical examples                       | [GitHub](https://github.com/ihatesea69/aws-mla-study-notes-and-hands-on-labs) |
+| AWS Data Engineer Associate (DEA-C01)             | Data engineering concepts, services, and hands-on labs                                      | [GitHub](https://github.com/ihatesea69/aws-dea-study-notes-and-hands-on-labs) |
+
+### Programming & Algorithms
+
+| Resource                   | Description                                                                                   | Link                                                                             |
+| -------------------------- | --------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| C# Study Notes             | 30-chapter Vietnamese learning resource from fundamentals to advanced OOP and data structures | [GitHub](https://github.com/ihatesea69/CSharp-Study-Notes)                       |
+| Linear Regression Analysis | AUD/USD forex prediction with time series analysis and feature engineering                    | [GitHub](https://github.com/ihatesea69/linear-regression-aud-usd-forex-analysis) |
 
 ---
 
