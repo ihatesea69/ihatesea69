@@ -59,30 +59,30 @@ I bridge the gap between complex business challenges and cutting-edge AI technol
 
 ### Voice Bot
 
-| Project              | Impact                                             | Metrics                    | Links                                                                            |
-| -------------------- | -------------------------------------------------- | -------------------------- | -------------------------------------------------------------------------------- |
-| AI Call Center Agent | Automated customer support calls using AWS Bedrock | Reduced call handling time | [Demo](https://github.com/ihatesea69) ・ [GitHub](https://github.com/ihatesea69) |
+| Project              | Impact                                             | Metrics                    | Links       |
+| -------------------- | -------------------------------------------------- | -------------------------- | ----------- |
+| AI Call Center Agent | Automated customer support calls using AWS Bedrock | Reduced call handling time | Coming soon |
 
 ### Chatbot
 
-| Project                | Impact                                                              | Metrics                                   | Links                                                                            |
-| ---------------------- | ------------------------------------------------------------------- | ----------------------------------------- | -------------------------------------------------------------------------------- |
-| Real Estate AI Chatbot | Property search with recommendations & automated lead qualification | Faster response time, improved conversion | [Demo](https://github.com/ihatesea69) ・ [GitHub](https://github.com/ihatesea69) |
+| Project                | Impact                                                              | Metrics                                   | Links       |
+| ---------------------- | ------------------------------------------------------------------- | ----------------------------------------- | ----------- |
+| Real Estate AI Chatbot | Property search with recommendations & automated lead qualification | Faster response time, improved conversion | Coming soon |
 
 ### Computer Vision
 
-| Project                   | Impact                                            | Metrics                  | Links                                                                                                                                                                                                                                                                  |
-| ------------------------- | ------------------------------------------------- | ------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Robot Human Detection     | CV human detection at Nguyen Hue Street, Tet 2025 | ~50,000 visitors reached | [Demo](https://github.com/ihatesea69/Robot_Spring_2025_NguyenHueStreet) ・ [GitHub](https://github.com/ihatesea69/Robot_Spring_2025_NguyenHueStreet) ・ [News](https://thanhnien.vn/robot-ban-tim-chup-anh-cho-khach-tren-duong-hoa-nguyen-hue-185250129133644434.htm) |
-| Sign Language Recognition | Deep learning model for sign language detection   | Accessibility focused    | [Demo](https://github.com/ihatesea69/Sign-Language-Recognition) ・ [GitHub](https://github.com/ihatesea69/Sign-Language-Recognition)                                                                                                                                   |
-| Human Wave Detector       | TensorFlow-based human detection for robotics     | Computer vision pipeline | [Demo](https://github.com/ihatesea69/HumanWaveDetector) ・ [GitHub](https://github.com/ihatesea69/HumanWaveDetector)                                                                                                                                                   |
+| Project                   | Impact                                            | Metrics                  | Links                                                                                                                                                                                       |
+| ------------------------- | ------------------------------------------------- | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Robot Human Detection     | CV human detection at Nguyen Hue Street, Tet 2025 | ~50,000 visitors reached | [GitHub](https://github.com/ihatesea69/Robot_Spring_2025_NguyenHueStreet) ・ [News](https://thanhnien.vn/robot-ban-tim-chup-anh-cho-khach-tren-duong-hoa-nguyen-hue-185250129133644434.htm) |
+| Sign Language Recognition | Deep learning model for sign language detection   | Accessibility focused    | [GitHub](https://github.com/ihatesea69/Sign-Language-Recognition)                                                                                                                           |
+| Human Wave Detector       | TensorFlow-based human detection for robotics     | Computer vision pipeline | [GitHub](https://github.com/ihatesea69/HumanWaveDetector)                                                                                                                                   |
 
 ### AI Ops
 
-| Project                          | Impact                                                  | Metrics                     | Links                                                                                                                                                                                  |
-| -------------------------------- | ------------------------------------------------------- | --------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Voice Agent Monitoring           | Voice Agent with Pipecat on AWS + LangSmith monitoring  | Production-ready setup      | [Demo](https://github.com/ihatesea69/Monitoring-Voice-Agent-with-LangSmith-Build-on-AWS) ・ [GitHub](https://github.com/ihatesea69/Monitoring-Voice-Agent-with-LangSmith-Build-on-AWS) |
-| AWS MSK Chatbot Security Monitor | Real-time security monitoring pipeline for chatbot apps | AI-powered threat detection | [Demo](https://github.com/ihatesea69/aws-msk-chatbot-security-monitor) ・ [GitHub](https://github.com/ihatesea69/aws-msk-chatbot-security-monitor)                                     |
+| Project                          | Impact                                                  | Metrics                     | Links                                                                                      |
+| -------------------------------- | ------------------------------------------------------- | --------------------------- | ------------------------------------------------------------------------------------------ |
+| Voice Agent Monitoring           | Voice Agent with Pipecat on AWS + LangSmith monitoring  | Production-ready setup      | [GitHub](https://github.com/ihatesea69/Monitoring-Voice-Agent-with-LangSmith-Build-on-AWS) |
+| AWS MSK Chatbot Security Monitor | Real-time security monitoring pipeline for chatbot apps | AI-powered threat detection | [GitHub](https://github.com/ihatesea69/aws-msk-chatbot-security-monitor)                   |
 
 ---
 
