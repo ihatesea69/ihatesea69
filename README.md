@@ -147,11 +147,12 @@ I participated in the **AWS First Cloud Journey Program**, a 6-month intensive t
 
 I contribute as both event support organizer and speaker for AWS community events.
 
-| Event                              | Role                 | Links                                                                                                                                                                      |
-| ---------------------------------- | -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| AWS Community Day 2024             | Speaker (16-11-2024) | [Watch at 1:56:50](https://www.youtube.com/watch?v=X_hGAasINQM&list=PLahN4TLWtox0nuKXP534-qaY8G3xeJHwX&index=23)                                                           |
-| AWS FCAJ x University (Uni Campus) | Speaker & Organizer  | [LinkedIn Recap](https://www.linkedin.com/posts/hieunghi_awscommunity-fcaj-firstcloudaijourney-activity-7389189163683741696-AEjb) ・ [Event](https://luma.com/yxkrkij0)    |
-| AWS FCAJ x University (AWS Venue)  | Speaker & Organizer  | [LinkedIn Recap](https://www.linkedin.com/posts/hieunghi_aws-awscommunity-awscloudclubs-activity-7395399212621979648-9Kn8) ・ [Event](https://luma.com/imkevnow?tk=SbEcQX) |
+| Event                                           | Role                 | Links                                                                                                                                                                      |
+| ----------------------------------------------- | -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| AWS Community Day 2024                          | Speaker (16-11-2024) | [Watch at 1:56:50](https://www.youtube.com/watch?v=X_hGAasINQM&list=PLahN4TLWtox0nuKXP534-qaY8G3xeJHwX&index=23)                                                           |
+| AWS FCAJ x University (Uni Campus)              | Speaker & Organizer  | [LinkedIn Recap](https://www.linkedin.com/posts/hieunghi_awscommunity-fcaj-firstcloudaijourney-activity-7389189163683741696-AEjb) ・ [Event](https://luma.com/yxkrkij0)    |
+| AWS FCAJ x University (AWS Venue)               | Speaker & Organizer  | [LinkedIn Recap](https://www.linkedin.com/posts/hieunghi_aws-awscommunity-awscloudclubs-activity-7395399212621979648-9Kn8) ・ [Event](https://luma.com/imkevnow?tk=SbEcQX) |
+| Kick-off AWS FCJ Workforce - FPTU OJT FALL 2025 | Speaker & Organizer  | [LinkedIn Recap](https://www.linkedin.com/posts/hieunghi_fcaj-awscommunitybuilder-genai-activity-7405648612761849856-l6iH)                                                 |
 
 ---
 
