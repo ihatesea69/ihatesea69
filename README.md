@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0969DA&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Hieu+Nghi" alt="Typing SVG" />
 </p>
 
-📍 **Ho Chi Minh City, Vietnam** | 🤖 **Gen AI Engineer** | ☁️ **AWS Community Builder** | 🎓 **AWS Student Builder Club Leader @ HUFLIT**
+📍 **Ho Chi Minh City, Vietnam** | 🤖 **AI Engineer @Renova Cloud** | ☁️ **AWS Community Builder - AI Engineer Categogy** | 🎓 **AWS Student Builder Club Leader @ HUFLIT**
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
