@@ -1,12 +1,8 @@
 <p align="center">
-  <img src="avatar.jpg" alt="Hieu Nghi" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0969DA&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Hieu+Nghi" alt="Typing SVG" />
 </p>
 
-📍 **Ho Chi Minh City, Vietnam** | 🤖 **AI Engineer @Renova Cloud** | ☁️ **AWS Community Builder - AI Engineer Categogy** | 🎓 **AWS Student Builder Club Leader @ HUFLIT**
+📍 **Ho Chi Minh City, Vietnam** | 🤖 **AI Engineer @ Renova Cloud (AWS Premier Partner)** | ☁️ **AWS Community Builder - AI Engineer Category** | 🎓 **AWS Student Builder Group Leader @ HUFLIT** | 🛠️ **Open Source Developer @ [Kiro Kit](https://github.com/Kiro-Kit)**
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -31,11 +27,11 @@
 ![Odoo](https://img.shields.io/badge/-Odoo-714B67?style=flat-square&logo=odoo&logoColor=white)
 ![Salesforce](https://img.shields.io/badge/-Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
 
-> Building AI-powered solutions that drive measurable business impact. From enterprise chatbots to voice agents deployed on AWS Cloud.
+> Helping technical leaders and business owners adopt AI to reduce cost, save time, maximize output, and deliver the greatest ROI. From enterprise chatbots to voice agents deployed on AWS Cloud.
 
 <p align="center">
   <a href="https://linkedin.com/in/hieunghi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://community.aws/@hieunghi"><img src="https://img.shields.io/badge/AWS_Community-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /></a>
+  <a href="https://builder.aws.com/community/@hieunghi"><img src="https://img.shields.io/badge/AWS_Builder_Center-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /></a>
   <a href="https://medium.com/@ihatesea69"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
   <a href="https://www.facebook.com/danhhoanghieunghi69/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
   <a href="https://dev.to/dashboard"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
@@ -43,7 +39,52 @@
 
 ---
 
+## About Me
+
+- 🤖 **AI Engineer at Renova Cloud**, an AWS Premier Partner. I own the full delivery cycle: discovery, architecture design, full coding and deployment of PoCs and demos, enablement, and production-ready handover. In 2 years I have delivered AI Agents, Voice Agents and AI Automation for SMBs, banking and insurance.
+- 🚀 **Developer Experience lead** for Amazon Quick and Kiro: C-level pitching, demos and use-case support that drove Kiro and Amazon Quick license adoption.
+- 🛠️ **Open Source Developer** building [Kiro Kit](https://github.com/Kiro-Kit) and agentic platform engineering on Kiro Crew.
+- 🎤 **Speaker & Developer Advocate**: 10+ public talks at AWS Community events (200+ attendees each on average), 20+ tutorials, blogs and videos on dev.to, AWS Builder Center, YouTube and TikTok.
+
+Always happy to chat about AI and AWS Cloud. Feel free to reach out anytime!
+
+---
+
+## Experience
+
+**AI Engineer** - Renova Cloud · Jun 2025 - Present
+- Developing AI Voice Agent best practices on AWS for GenAI applications with AIOps
+- Supporting internal cloud solutions for Cloud Operations and FinOps
+- Delivering Amazon Quick solutions that build intelligent dashboards from natural-language queries
+- Delivering training presentations for customers and internal teams
+
+**Open Source Developer - Developer Advocate** - [Kiro Kit](https://github.com/Kiro-Kit) · Jul 2026 - Present
+- Building and maintaining [kiro-kit](https://github.com/ihatesea69/kiro-kit), an open-source CLI that sets up an agentic-coding workspace in one command (`npx kiro-kit init`): subagents, skills, slash commands, hooks, MCP servers and worked example specs across 9 presets (frontend, backend, devops, data/AI, cloud architecture)
+- Kiro Crew - Agentic Platform Engineering (Sep 2026 - Present): building an agentic platform on Kiro Crew apps
+
+**AI Engineer Ambassador** - AWS Study Group · Oct 2023 - Present
+- First Dual AWS Cloud Captain - AWS Community Builder in Vietnam
+- Authored 15+ AWS technical blogs for the AWS Study Group community (~5,000 total interactions)
+- Audited and helped build 30+ real-world AWS student projects from Bach Khoa University, FPT University, HUTECH and Saigon University, applying the AWS Well-Architected Framework across Serverless, Agentic AI Chatbots, IoT, Data Pipelines and 3-Tier Web Apps, all within a $200 AWS credit budget
+
+**Founder & Leader** - AWS Student Builder Group HUFLIT · Dec 2023 - Present
+- Grew a learning community of 2,000+ members on Facebook and Discord; 50+ students improved grades from D/C to B-A+
+- Manage 3 two-pizza teams (Dev Tools, Network/Security, Data/AI) building real, scalable AWS solutions
+- Coached 5 core members to speak on stage in front of 200+ attendees
+
+**AI Team Lead (Student Team)** - HUFLIT · Nov 2024 - Feb 2025
+- Led a 4-member team to build a computer vision app for robots at Nguyen Hue Flower Street (Lunar New Year 2025)
+- Built in ~14 days, deployed on edge devices, ran non-stop for 7 days over Tet with zero downtime
+- Served 50,000+ visitors; reviewed by Ho Chi Minh City leaders
+
+---
+
 ## Current Projects
+
+### 🛠️ Kiro Kit
+
+- ⚡ **[kiro-kit](https://github.com/ihatesea69/kiro-kit)** - Set up a Kiro IDE workspace with one command. Pick a preset and the agents, skills, commands, hooks and MCP config get written into `.kiro/` for you
+- 🔎 **[pr-standard-reviewer](https://github.com/Kiro-Kit/pr-standard-reviewer)** - Review GitHub PRs against your own coding standards. Built for Kiro Crew
 
 ### 🤖 AI & Voice Agents
 
@@ -109,9 +150,15 @@
 
 ## Recognition
 
-**Finalist** — VPBank Technology Hackathon 2025 (AI Voice Agent) | **Top 20** — Olympiad of AI, Ho Chi Minh City 2025 | **Third Place** — ROBOG 2024
+**Finalist** — VPBank Technology Hackathon 2025, Senior Track (AI Voice Agent) | **Top 20** — Olympiad in Artificial Intelligence, Ho Chi Minh City 2025 | **Third Place** — ROBOG 2024
+
+### Publications
+
+- **CBAM-TransUNet: A Pre-Patch Attention Model for Pancreas Segmentation in CT Images** (Computer Vision)
 
 ### AWS Certifications
+
+**8x AWS Certified**: AIP-C01 · SCS-C03 · SOA-C03 · DVA-C02 · DEA-C01 · MLA-C01 · CLF-C02 · AIF-C01 | **AWS Cloud Club Captain**: Silver Level
 
 <p align="center">
   <a href="https://www.credly.com/badges/124f94fd-bff6-4d6f-af9d-39489f988c21">
@@ -132,7 +179,13 @@
 
 ## Community
 
-**Founder** — AI AWS Cloud Club HUFLIT (1,000+ members) | **Speaker** — AWS Community Day 2024, FCAJ University Events
+**Founder & Leader** — AWS Student Builder Group HUFLIT (2,000+ members) | **AWS Community Builder** — AI Engineer | **Speaker & Developer Advocate** — AWS First Cloud AI Journey, AWS Community Day 2024, 10+ public talks
+
+---
+
+## Education
+
+**Bachelor's Degree, Information Technology (Data Science)** — Ho Chi Minh City University of Foreign Languages and Information Technology (HUFLIT)
 
 ---
 
