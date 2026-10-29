@@ -158,22 +158,27 @@ Always happy to chat about AI and AWS Cloud. Feel free to reach out anytime!
 
 ### AWS Certifications
 
-**8x AWS Certified**: AIP-C01 · SCS-C03 · SOA-C03 · DVA-C02 · DEA-C01 · MLA-C01 · CLF-C02 · AIF-C01 | **AWS Cloud Club Captain**: Silver Level
+**9x AWS Certified**: SAP-C02 · AIP-C01 · SCS-C03 · SOA-C03 · DVA-C02 · DEA-C01 · MLA-C01 · AIF-C01 · CLF-C02
 
 <p align="center">
-  <a href="https://www.credly.com/badges/124f94fd-bff6-4d6f-af9d-39489f988c21">
-    <img src="https://images.credly.com/size/100x100/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" width="80" height="80" alt="AWS Certified AI Practitioner" />
-  </a>
-  <a href="https://www.credly.com/badges/527cbc1f-77ad-4b56-9d08-8c73f643d05f">
-    <img src="https://images.credly.com/size/100x100/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="80" height="80" alt="AWS Certified Cloud Practitioner" />
-  </a>
-  <a href="https://www.credly.com/badges/3628255a-5375-4e78-b2df-27d5940f5333">
-    <img src="https://images.credly.com/size/100x100/images/e5c85d7f-4e50-431e-b5af-fa9d9b0596e7/image.png" width="80" height="80" alt="AWS Certified Data Engineer Associate" />
-  </a>
-  <a href="https://www.credly.com/badges/c6aa1ff5-1782-4acf-a1f0-4f172072f1e5">
-    <img src="https://images.credly.com/size/100x100/images/1a634b4e-3d6b-4a74-b118-c0dcb429e8d2/image.png" width="80" height="80" alt="AWS Certified Machine Learning Engineer Associate" />
-  </a>
+  <a href="https://www.credly.com/badges/52156e3f-a965-4ad6-a2b4-b7478a9eb8bc"><img src="https://images.credly.com/size/110x110/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" width="80" height="80" alt="AWS Certified Solutions Architect - Professional" title="AWS Certified Solutions Architect - Professional" /></a>
+  <a href="https://www.credly.com/badges/13e56e4e-356e-4487-bc2f-b1669e60acdf"><img src="https://images.credly.com/size/110x110/images/52c6e5ac-9516-4944-a4df-e31b23c9bbf2/blob" width="80" height="80" alt="AWS Certified Generative AI Developer - Professional" title="AWS Certified Generative AI Developer - Professional" /></a>
+  <a href="https://www.credly.com/badges/67ba336d-a3d0-4865-a588-99edff948e8a"><img src="https://images.credly.com/size/110x110/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png" width="80" height="80" alt="AWS Certified Security - Specialty" title="AWS Certified Security - Specialty" /></a>
+  <a href="https://www.credly.com/badges/f815569c-673f-47ec-bc5f-068947938dcd"><img src="https://images.credly.com/size/110x110/images/88a6405e-0f26-442a-95ed-f9b9db4c857e/blob" width="80" height="80" alt="AWS Certified CloudOps Engineer - Associate" title="AWS Certified CloudOps Engineer - Associate" /></a>
+  <a href="https://www.credly.com/badges/355d50ed-a78b-465a-b14a-daf75347d28d"><img src="https://images.credly.com/size/110x110/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" width="80" height="80" alt="AWS Certified Developer - Associate" title="AWS Certified Developer - Associate" /></a>
+  <a href="https://www.credly.com/badges/4ecebc69-6434-4dde-848e-ce8967786a3c"><img src="https://images.credly.com/size/110x110/images/e5c85d7f-4e50-431e-b5af-fa9d9b0596e7/image.png" width="80" height="80" alt="AWS Certified Data Engineer - Associate" title="AWS Certified Data Engineer - Associate" /></a>
+  <a href="https://www.credly.com/badges/45ed62d7-a9d9-4e67-8d2a-bb954cd2f17b"><img src="https://images.credly.com/size/110x110/images/1a634b4e-3d6b-4a74-b118-c0dcb429e8d2/image.png" width="80" height="80" alt="AWS Certified Machine Learning Engineer - Associate" title="AWS Certified Machine Learning Engineer - Associate" /></a>
+  <a href="https://www.credly.com/badges/57bf79a4-81ed-4ea0-8afa-644f2f4229db"><img src="https://images.credly.com/size/110x110/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" width="80" height="80" alt="AWS Certified AI Practitioner" title="AWS Certified AI Practitioner" /></a>
+  <a href="https://www.credly.com/badges/e801b3cc-d577-4b4a-b9fb-a8796696c25c"><img src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="80" height="80" alt="AWS Certified Cloud Practitioner" title="AWS Certified Cloud Practitioner" /></a>
 </p>
+
+<p align="center">
+  <a href="https://www.credly.com/badges/ea27d510-fa65-4ec5-84de-3016a68d5928"><img src="https://images.credly.com/size/110x110/images/d2f9e17a-6036-4b42-97b1-0ab2323c4b2f/image.png" width="80" height="80" alt="AWS Cloud Club Captain: Gold Level" title="AWS Cloud Club Captain: Gold Level" /></a>
+  <a href="https://www.credly.com/badges/146cfc44-fda1-4d04-a9e2-e06994dfe96d"><img src="https://images.credly.com/size/110x110/images/1e8d730b-58fc-48b8-be32-cc8758f90229/blob" width="80" height="80" alt="AWS SBG Leader Badge" title="AWS SBG Leader Badge" /></a>
+  <a href="https://www.credly.com/badges/b9771a51-56e3-4bab-8dfe-0967f4ce7c23"><img src="https://images.credly.com/size/110x110/images/b870667f-00a3-48d7-b988-9c02b441b883/image.png" width="80" height="80" alt="Well-Architected Proficient" title="Well-Architected Proficient" /></a>
+</p>
+
+<p align="center"><a href="https://www.credly.com/users/hieunghi">All 32 badges on Credly</a></p>
 
 ---
 
