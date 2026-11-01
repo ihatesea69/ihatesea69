@@ -34,7 +34,7 @@
   <a href="https://builder.aws.com/community/@hieunghi"><img src="https://img.shields.io/badge/AWS_Builder_Center-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /></a>
   <a href="https://medium.com/@ihatesea69"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
   <a href="https://www.facebook.com/danhhoanghieunghi69/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://dev.to/dashboard"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
+  <a href="https://dev.to/nghidanh2005"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
 </p>
 
 ---
@@ -109,8 +109,7 @@ Always happy to chat about AI and AWS Cloud. Feel free to reach out anytime!
 ### 👁️ Computer Vision & ML
 
 - 🤖 **[Robot_Spring_2025_NguyenHueStreet](https://github.com/ihatesea69/Robot_Spring_2025_NguyenHueStreet)** - CV human detection robot at Nguyen Hue Flower Street, Tet 2025 ([News](https://thanhnien.vn/robot-ban-tim-chup-anh-cho-khach-tren-duong-hoa-nguyen-hue-185250129133644434.htm))
-- 🏥 **[TransUNet-Medical-Image-Segmentation](https://github.com/ihatesea69/TransUNet-Medical-Image-Segmentation)** - PyTorch reproduction of TransUNet for medical image segmentation, Dice score 77.29% on Synapse dataset
-- 🏥 **[TransUNet-Pancreas-Segmentation](https://github.com/ihatesea69/TransUNet-Pancreas-Segmentation)** - Automated pancreas segmentation from CT scans using Transformer + U-Net
+- 🏥 **[MSCAF-TransUNet](https://github.com/ihatesea69/MSCAF-TransUNet)** - Multi-Scale CNN Attention Fusion for Synapse segmentation: 76.61 Dice / 28.80 HD95
 - 🤟 **[Sign-Language-Recognition](https://github.com/ihatesea69/Sign-Language-Recognition)** - Deep learning sign language detection for accessibility
 - 👋 **[HumanWaveDetector](https://github.com/ihatesea69/HumanWaveDetector)** - TensorFlow human detection for robotics applications
 - 📸 **[iot-face-recognition-serverless](https://github.com/ihatesea69/iot-face-recognition-serverless)** - Serverless IoT face recognition with Lambda + Rekognition
@@ -130,20 +129,17 @@ Always happy to chat about AI and AWS Cloud. Feel free to reach out anytime!
 
 - 💼 **[salesforce-crm-clone](https://github.com/ihatesea69/salesforce-crm-clone)** - Full-featured Salesforce CRM clone with Next.js 16 + Tailwind + Clerk + Neon PostgreSQL
 - 🌐 **[van-tai-danh-nam](https://github.com/ihatesea69/van-tai-danh-nam)** - Landing page for Van Tai Danh Nam (xe tai, xe 7 cho, tai xe rieng) at Kien Giang, Mien Tay
-- 📝 **[Personal-Blogs](https://github.com/ihatesea69/Personal-Blogs)** - My Personal Blog
+- 📝 **[Blog on dev.to](https://dev.to/nghidanh2005)** - My write-ups on AWS, AI agents and cloud security
 
 ---
 
 ### 📚 Study Notes & Guides
 
 - 🏗️ **[AWS-SAA-C03-Workshop-Study-Guide](https://github.com/ihatesea69/AWS-SAA-C03-Workshop-Study-Guide)** - AWS Solutions Architect Associate (SAA-C03) comprehensive workshop with Hugo
-- 📚 **[aws-saa-study-notes-and-hands-on-labs](https://github.com/ihatesea69/aws-saa-study-notes-and-hands-on-labs)** - AWS Solutions Architect Associate (SAA-C03) study notes
-- 🤖 **[aws-mla-study-notes-and-hands-on-labs](https://github.com/ihatesea69/aws-mla-study-notes-and-hands-on-labs)** - AWS Machine Learning Engineer Associate (MLA-C01)
-- 📊 **[aws-dea-study-notes-and-hands-on-labs](https://github.com/ihatesea69/aws-dea-study-notes-and-hands-on-labs)** - AWS Data Engineer Associate (DEA-C01)
 - 🧠 **[aws-aip-c01-exam-guide](https://github.com/ihatesea69/aws-aip-c01-exam-guide)** - AWS Certified Generative AI Developer (AIP-C01) bilingual study guide with hands-on labs
 - 🎓 **[aws-dva-c02-study-plan](https://github.com/ihatesea69/aws-dva-c02-study-plan)** - AWS Certified Developer Associate (DVA-C02) comprehensive study guide built with Hugo
 - 💻 **[CSharp-Study-Notes](https://github.com/ihatesea69/CSharp-Study-Notes)** - 30-chapter Vietnamese C# learning resource
-- 🎨 **[aws-cloud-clubs-workshop-template](https://github.com/ihatesea69/aws-cloud-clubs-workshop-template)** - AWS Cloud Clubs workshop template
+- 🎨 **[aws-student-builder-club-workshop-template](https://github.com/ihatesea69/aws-student-builder-club-workshop-template)** - Bilingual Hugo workshop template for AWS Student Builder Club hands-on labs
 - 📦 **[Github-Template](https://github.com/ihatesea69/Github-Template)** - GitHub project template for scaffolding projects
 
 ---
